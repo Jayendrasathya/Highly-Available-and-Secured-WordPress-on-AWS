@@ -11,5 +11,12 @@ Lastly, for keeping the servers running smoothly, we'll use a Bastion Host for s
 # Architecture 
 <img width="1078" alt="architecture" src="https://github.com/Jayendrasathya/Highly-Available-and-Secured-WordPress-on-AWS/assets/116148912/1b73fef1-6563-44f2-8d22-252cf6773957">
 
+# Let's get started!
+# Step 1 — Setup VPC and Subnets
+<img width="1440" alt="VPC" src="https://github.com/Jayendrasathya/Highly-Available-and-Secured-WordPress-on-AWS/assets/116148912/9dfc7eb1-910d-463f-82b6-f4baa1b6f29e">
+In this demo, I chose ap-south-1(Mumbai) region, but you can pick up any region that is near you for fast access and low latency.
+
+Remember to deploy in at least 2 Availability Zones, with a minimum of one private and one public subnet in each. You can also limit the CIDR for this demo to reserve IPv4 addresses for other purposes.
+
 
 
