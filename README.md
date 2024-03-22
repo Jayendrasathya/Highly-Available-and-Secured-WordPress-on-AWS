@@ -317,7 +317,7 @@ But I don't have any own domain, So I'm skipping the part(Route53)
 <img width="1440" alt="11  -3" src="https://github.com/Jayendrasathya/Highly-Available-and-Secured-WordPress-on-AWS/assets/116148912/8202b964-3dcd-400a-b12d-b094222f7f0e">
 
 
-I don't have any domain, So I've hosted it with loadbalancer DNS. 
+I don't have any domain, So I've hosted it with cloudFront's DNS. 
 
 
 # Output
